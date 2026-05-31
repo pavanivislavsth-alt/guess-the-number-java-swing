@@ -1,4 +1,4 @@
-****# Guess The Number Game 🎯
+# Guess The Number Game 🎯
 
 A desktop-based Number Guessing Game built using Java Swing as part of my internship at Oasis Infobyte.
 
